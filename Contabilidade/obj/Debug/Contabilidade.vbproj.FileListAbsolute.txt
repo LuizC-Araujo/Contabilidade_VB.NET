@@ -1,0 +1,17 @@
+C:\Users\lj133\source\repos\Contabilidade\Contabilidade\bin\Debug\Contabilidade.exe.config
+C:\Users\lj133\source\repos\Contabilidade\Contabilidade\bin\Debug\Contabilidade.exe
+C:\Users\lj133\source\repos\Contabilidade\Contabilidade\bin\Debug\Contabilidade.pdb
+C:\Users\lj133\source\repos\Contabilidade\Contabilidade\bin\Debug\Contabilidade.xml
+C:\Users\lj133\source\repos\Contabilidade\Contabilidade\obj\Debug\Contabilidade.vbprojAssemblyReference.cache
+C:\Users\lj133\source\repos\Contabilidade\Contabilidade\obj\Debug\Interop.ADODB.dll
+C:\Users\lj133\source\repos\Contabilidade\Contabilidade\obj\Debug\Interop.ADOR.dll
+C:\Users\lj133\source\repos\Contabilidade\Contabilidade\obj\Debug\Contabilidade.vbproj.ResolveComReference.cache
+C:\Users\lj133\source\repos\Contabilidade\Contabilidade\obj\Debug\Contabilidade.FrmLogin.resources
+C:\Users\lj133\source\repos\Contabilidade\Contabilidade\obj\Debug\Contabilidade.Resources.resources
+C:\Users\lj133\source\repos\Contabilidade\Contabilidade\obj\Debug\Contabilidade.vbproj.GenerateResource.cache
+C:\Users\lj133\source\repos\Contabilidade\Contabilidade\obj\Debug\Contabilidade.exe
+C:\Users\lj133\source\repos\Contabilidade\Contabilidade\obj\Debug\Contabilidade.xml
+C:\Users\lj133\source\repos\Contabilidade\Contabilidade\obj\Debug\Contabilidade.pdb
+C:\Users\lj133\source\repos\Contabilidade\Contabilidade\obj\Debug\Contabilidade.FrmMenu.resources
+C:\Users\lj133\source\repos\Contabilidade\Contabilidade\obj\Debug\Contabilidade.FrmCadastroContas.resources
+C:\Users\lj133\source\repos\Contabilidade\Contabilidade\obj\Debug\Contabilidade.FrmControleEstoque.resources

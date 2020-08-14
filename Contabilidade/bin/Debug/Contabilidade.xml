@@ -1,0 +1,121 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Contabilidade
+</name>
+</assembly>
+<members>
+<member name="T:Contabilidade.My.Resources.Resources">
+<summary>
+  Uma classe de recurso de tipo de alta segurança, para pesquisar cadeias de caracteres localizadas etc.
+</summary>
+</member>
+<member name="P:Contabilidade.My.Resources.Resources.ResourceManager">
+<summary>
+  Retorna a instância de ResourceManager armazenada em cache usada por essa classe.
+</summary>
+</member>
+<member name="P:Contabilidade.My.Resources.Resources.Culture">
+<summary>
+  Substitui a propriedade CurrentUICulture do thread atual para todas as
+  pesquisas de recursos que usam essa classe de recurso de tipo de alta segurança.
+</summary>
+</member>
+<member name="P:Contabilidade.My.Resources.Resources.addIcon">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Contabilidade.My.Resources.Resources.addPlanodeContas">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Contabilidade.My.Resources.Resources.addPlanodeContas2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Contabilidade.My.Resources.Resources.adduse">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Contabilidade.My.Resources.Resources.bgMid">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Contabilidade.My.Resources.Resources.bgTop">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Contabilidade.My.Resources.Resources.cancelar">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Contabilidade.My.Resources.Resources.cancelar2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Contabilidade.My.Resources.Resources.empresa">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Contabilidade.My.Resources.Resources.entrar">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Contabilidade.My.Resources.Resources.logoABL">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Contabilidade.My.Resources.Resources.logoABL2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Contabilidade.My.Resources.Resources.panel">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Contabilidade.My.Resources.Resources.panel2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Contabilidade.My.Resources.Resources.prateleira">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Contabilidade.My.Resources.Resources.prudtos">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Contabilidade.My.Resources.Resources.prudtos1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Contabilidade.My.Resources.Resources.salvar">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Contabilidade.My.Resources.Resources.searchIcon">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
